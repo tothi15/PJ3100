@@ -1,7 +1,7 @@
 public class Test{
     String name = "";
     public Test(){
-        name = changeName("Thinh5");
+        name = changeName("Thinh6");
     }
     
     public void changeName(String name){
