@@ -2,7 +2,7 @@ public class Test{
     String name = "";
     public Test(){
 
-        name = changeName("Manisa");
+        name = changeName("Sanaye");
 
     }
     
